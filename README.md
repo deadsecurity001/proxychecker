@@ -29,6 +29,11 @@ proxychecker --check-url <RESPONDER_URL> \
   --tg-proxy-address <SOCKS5_PROXY_TO_TELEGRAM_API>
 ```
 Check `proxychecker --help` for full list of available arguments.
+<b>Note</b> :- Downloads are speed on heroku too! 😍
 
+<br>
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deadsecurity001/proxychecker)
+</details>
 ### Use bot
 Issue `/help` or `/start` command to the Bot.
